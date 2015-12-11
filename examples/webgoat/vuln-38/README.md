@@ -8,7 +8,7 @@ It will return a
 
 This test assumes 3 things:
 
-(1) That python and python-requests are installed and available on the $PATH and uses the generic command-line attack.  To install these run the following command on Debian-based systems aka those using .deb packages.
+(1) That python 2.7(or higher) and python-requests are installed and available on the $PATH and uses the generic command-line attack.  To install these run the following command on Debian-based systems aka those using .deb packages.
 
 ```
 $ sudo apt-get install python python-requests
